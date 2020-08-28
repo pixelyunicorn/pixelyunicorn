@@ -1,6 +1,6 @@
 # welcome to melody's code treehouse!
 
-i'm getting my github profile set up, but in the meantime, here's where you can find me:
+here's where you can find me on the internet:
 
 🔮 [melody.dev](https://melody.dev)
 
